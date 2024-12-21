@@ -1,5 +1,5 @@
 const { assert } = require('chai');
-
+/*hi user*/
 const Manufacturer = artifacts.require('Manufacturer');
 
 require('chai')

@@ -10,7 +10,7 @@ contract Stakeholder is Admin{
     string role;
     bool isVerified;
   }
-
+/*hi user*/
   mapping(address => stakeholder) _stakeholders;
   mapping(address => mapping(uint256 => bool)) _stakeholderProductOwnership;
   mapping(address => mapping(address => bool)) _operatorApprovals;

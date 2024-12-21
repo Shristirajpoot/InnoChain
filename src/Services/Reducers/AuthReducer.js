@@ -1,5 +1,5 @@
 import * as ActionTypes from '../Constants/ActionTypes';
-
+/*hi user*/
 export const authReducuer = (state, action) => {
   switch(action.type){
     case ActionTypes.AUTH_STATE_LOADING:

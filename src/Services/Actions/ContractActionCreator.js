@@ -1,5 +1,5 @@
 import * as ActionTypes from '../Constants/ActionTypes';
-
+/*hi user*/
 export const contractStateLoading = () => ({
   type: ActionTypes.CONTRACT_STATE_LOADING
 })

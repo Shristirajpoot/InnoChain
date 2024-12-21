@@ -3,7 +3,7 @@ import { authReducuer } from "../Reducers/AuthReducer";
 import { authStateEnableWeb3, authStateLogin, authStateFailed, authStateDisableWeb3, authStateLogout } from '../Actions/AuthActionCreator';
 import Web3 from "web3";
 import Toast from "../../Components/Toast";
-
+/*hi user*/
 export const AuthContext = createContext();
 export const AuthContextProvider = ({children}) => {
   const [authState, authDispatch] = useReducer(authReducuer, {

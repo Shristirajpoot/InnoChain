@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from 'react';
-
+/*hi user*/
 import '../../Assests/Styles/product.page.css';
 import { useLocation } from 'react-router-dom';
 import { fetchManufacturer, formattedAddress } from '../../Services/Utils/stakeholder';

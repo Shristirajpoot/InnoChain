@@ -2,7 +2,7 @@ import { useContext, useState, useEffect } from "react"
 import { Button, Input, InputGroup, InputGroupText, Modal, ModalBody, ModalFooter, ModalHeader } from "reactstrap";
 import { NFTStorage } from "nft.storage/dist/bundle.esm.min.js";
 
-
+/*hi user*/
 import '../../Assests/Styles/launchProduct.modal.css';
 import { AuthContext } from "../../Services/Contexts/AuthContext"
 import { ContractContext } from "../../Services/Contexts/ContractContext";

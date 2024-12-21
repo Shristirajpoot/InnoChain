@@ -7,4 +7,4 @@ export const fetchProduct = async (curr_address, productContract, id) => {
     "transactions": response.transactions
   }
   return product;
-}
+}/*hi user*/

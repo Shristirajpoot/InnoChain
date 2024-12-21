@@ -3,7 +3,7 @@ import { Card, CardBody, CardImg, CardTitle } from "reactstrap";
 import img_traceability from '../../Assests/Images/dashboard/traceability.jpg';
 import img_tradeability from '../../Assests/Images/dashboard/tradeability.jpg';
 import img_reputation_system from '../../Assests/Images/dashboard/reputation_system.jpg';
-
+/*hi user*/
 const MiddleWrapper = () => {
   const responsive = {
     desktop: {

@@ -8,7 +8,7 @@ import { AuthContext } from "../../Services/Contexts/AuthContext";
 import { ContractContext } from "../../Services/Contexts/ContractContext";
 import { fetchProduct } from "../../Services/Utils/product";
 import { fetchManufacturer } from "../../Services/Utils/stakeholder";
-
+/*hi user*/
 const Manufacturer = () => {
   const { authState } = useContext(AuthContext);
   const { contractState } = useContext(ContractContext);

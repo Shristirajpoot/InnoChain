@@ -16,4 +16,4 @@ const Rating  = ( {count, rating, onChange, editable} ) => {
     />
   );
 }
-export default Rating;
+export default Rating;/*hi user*/

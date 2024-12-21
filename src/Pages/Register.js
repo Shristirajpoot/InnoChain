@@ -5,7 +5,7 @@ import '../Assests/Styles/register.page.css';
 import { AuthContext } from "../Services/Contexts/AuthContext";
 import { ContractContext } from "../Services/Contexts/ContractContext";
 import Toast from "../Components/Toast";
-
+/*hi user*/
 const Register = () => {
   const { authState } = useContext(AuthContext);
   const { contractState, loadStakeholder } = useContext(ContractContext)

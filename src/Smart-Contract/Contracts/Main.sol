@@ -4,7 +4,7 @@ import './Farmer.sol';
 import './Manufacturer.sol';
 import './Stakeholder.sol';
 import './Product.sol';
-
+/*hi user*/
 contract Main{
   Farmer public farmer;
   Manufacturer public manufacturer;

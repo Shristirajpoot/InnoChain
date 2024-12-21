@@ -10,7 +10,7 @@ contract Manufacturer is Stakeholder {
     address[] boughtFromIds;
     bool isVerified;
   }
-
+/*hi user*/
   struct supplier{
     address id;
     bool isVerified;

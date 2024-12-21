@@ -1,3 +1,4 @@
+
 # Authenticity in Food Supply Chain Using Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-white?style=for-the-badge&logo=ethereum&logoColor=blue)
@@ -11,7 +12,7 @@
 ## Project description
 
 ### Introduction
-The food supply chain is a complex but necessary food production arrangement needed by the global community to maintain sustainability and food security. The supply chain has been extended geographically involving many more stakeholders, making the supply chain longer and complicated and thus involving many challenges.
+The  InnoChain is a complex but necessary food production arrangement needed by the global community to maintain sustainability and food security. The supply chain has been extended geographically involving many more stakeholders, making the supply chain longer and complicated and thus involving many challenges.
 
 Some of the challenges that are commonly faced in food supply chains are
 * Lack of traceability and communication.
@@ -74,7 +75,7 @@ The project is build on three core modules: Traceability System, Trading Mechani
 
 **Clone the repository**
 ```bash
-git clone https://github.com/lakshya-20/supply-chain
+git clone https://github.com/Shristirajpoot/InnoChain
 ```
 
 ### Setting Up Truffle Project

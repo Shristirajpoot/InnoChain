@@ -1,3 +1,4 @@
+/*hi user*/
 ---
 name: New Feature
 about: Create a issue for adding new feature

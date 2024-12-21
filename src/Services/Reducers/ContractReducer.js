@@ -1,5 +1,5 @@
 import * as ActionTypes from '../Constants/ActionTypes';
-
+/*hi user*/
 export const contractReducer = (state, action) => {
   switch(action.type){
     case ActionTypes.CONTRACT_STATE_LOADING:

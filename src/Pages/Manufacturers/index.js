@@ -5,4 +5,4 @@ const Manufacturers = () => {
     </div>
   )
 }
-export default Manufacturers;
+export default Manufacturers;/*hi user*/

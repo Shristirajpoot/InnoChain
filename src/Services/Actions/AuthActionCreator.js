@@ -1,5 +1,5 @@
 import * as ActionTypes from '../Constants/ActionTypes';
-
+/*hi user*/
 export const authStateFailed = (error) => ({
   type: ActionTypes.AUTH_STATE_FAILED,
   payload: error

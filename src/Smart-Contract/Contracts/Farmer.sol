@@ -6,7 +6,7 @@ contract Farmer is Stakeholder {
   mapping(string => address[]) public _rawProductFarmers;
 
   constructor() Stakeholder() {}
-
+/*hi user*/
   function registerFarmer(
     string memory _name, 
     string memory _location, 

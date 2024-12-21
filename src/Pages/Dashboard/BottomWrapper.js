@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Card, CardBody, Row } from "reactstrap";
 import { ContractContext } from "../../Services/Contexts/ContractContext";
-
+/*hi user*/
 const BottomWrapper = () => {
   const {contractState} = useContext(ContractContext);
   const stats = [

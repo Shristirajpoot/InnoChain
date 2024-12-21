@@ -3,7 +3,7 @@ const Farmer = artifacts.require("Farmer");
 const Manufacturer = artifacts.require("Manufacturer");
 const Product = artifacts.require("Product");
 const Main = artifacts.require("Main");
-
+/*hi user*/
 module.exports = async (callback) => {
 
   const accounts = await web3.eth.getAccounts();

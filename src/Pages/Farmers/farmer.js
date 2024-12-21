@@ -5,7 +5,7 @@ import Toast from "../../Components/Toast";
 import { AuthContext } from "../../Services/Contexts/AuthContext";
 import { ContractContext } from "../../Services/Contexts/ContractContext";
 import { fetchFarmer } from "../../Services/Utils/stakeholder";
-
+/*hi user*/
 const Farmer = () => {
   const { authState }  = useContext(AuthContext);
   const { contractState } = useContext(ContractContext);

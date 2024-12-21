@@ -6,7 +6,7 @@ export const fetchFarmer = async (curr_address, farmerContract, id) => {
     rawProducts: response.rawProducts
   }
 }
-
+/*hi user*/
 export const fetchManufacturer = async (curr_address, manufacturerContract, id) => {
   const response = await manufacturerContract.methods.getManufacturer(id).call({from: curr_address});
   return {
